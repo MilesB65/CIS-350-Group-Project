@@ -7,4 +7,12 @@ Hugo Porras
 
 
 ## Indroduction
-Our project is going to be making a dictionary app. This app will allow the user to input a word and the app will output the definition for that word. We will be using a free dictionary API for our dictionary database. 
+Our project is going to be making a dictionary app. This app will allow the user to input a word and the app will output the definition for that word.
+
+## Architectural Design
+Our project is mainly programmed in python but the dictionary itself is pullled through an api. This way we do not have to make a whole new piece of code for the dictionary itself. 
+  
+  ### Use case Diagram
+
+  ### Class Diagram
+
