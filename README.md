@@ -24,6 +24,8 @@ Our project is mainly programmed in python but the dictionary itself is pullled 
 ## User Guide
 Once the user downloads the app, the user will simply see a search bar with a prompt to tell the user to put in a word. 
 
+![Dictionary App Home Screen](CIS_350_Project_Images/Dictionary_App_Home_Screen.png)
+
 The User would then put in a word in the search bar and then the screen would then add a bar with text in it saying the definition of the word.
 
 Then there would be a prompt saying if the user would like to search for another word and the user can say yes or no. If the user says yes, the search line will be empty again. If the user selects no. The prompt will stop. 
