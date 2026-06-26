@@ -20,7 +20,7 @@ Our project is mainly programmed in python but the dictionary itself is pullled 
 
   ### Class Diagram
 
-![UML Class Diagram](Cis_350_Project_Images/UML_Class_Diagram.png)
+![UML Class Diagram](CIS_350_Project_Images/UML_Class_Diagram.png)
 
 ## User Guide
 Once the user downloads the app, the user will simply see a search bar with a prompt to tell the user to put in a word. 
