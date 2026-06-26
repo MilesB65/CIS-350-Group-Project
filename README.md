@@ -15,8 +15,7 @@ Our project is mainly programmed in python but the dictionary itself is pullled 
   
   ### Use case Diagram
   
-
-
+![UML Use Case Diagram](CIS_350_Project_Images/UML_Use_Case_Diagram.png)
 
   ### Class Diagram
 
