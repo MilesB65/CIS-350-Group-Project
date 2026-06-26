@@ -1,3 +1,4 @@
+
 # CIS-350-Group-Project
 
 ## Made By
@@ -13,6 +14,8 @@ Our project is going to be making a dictionary app. This app will allow the user
 Our project is mainly programmed in python but the dictionary itself is pullled through an api. This way we do not have to make a whole new piece of code for the dictionary itself. 
   
   ### Use case Diagram
+  
+[UML class.pdf](https://github.com/user-attachments/files/29361925/UML.class.pdf)
 
   ### Class Diagram
 
